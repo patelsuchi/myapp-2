@@ -1,4 +1,4 @@
-import Navbar from "./components/landingpage/header";
+// import Navbar from "./components/landingpage/header";
 import Hero from "./components/landingpage/hero";
 import Number from "./components/landingpage/number";
 import Clients from "./components/landingpage/clients";
@@ -16,7 +16,7 @@ import Card from "./components/landingpage/card";
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      {/* <Navbar/> */}
       <Hero/>
       <Number/>
       <Clients/>
